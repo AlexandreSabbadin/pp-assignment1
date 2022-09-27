@@ -1,5 +1,7 @@
 # Parallel Programming - Assignment 1
 
+https://github.com/AlexandreSabbadin/pp-assignment1
+
 How to run the program:
 
 ```bash
